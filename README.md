@@ -1,3 +1,3 @@
 # AGP-da-silva
 
-● ChecliftingWindowControl.ahk - Identifica telas provenientes do checklifting e monitores do sistema, assim, sendo possível mover as telas
+● ChecliftingWindowControl.ahk - Identifica telas provenientes do checklifting e monitores do sistema para poder mover as telas
